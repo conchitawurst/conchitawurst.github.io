@@ -1,5 +1,5 @@
 = First Post
-:published_at: 2015-01-31
+:published_at: 2015-08-02
 :hp-tags: HubPress, Blog, Open Source,
 
 This is a simple test post for conchitawurst.github.io, a blog running hubpress and being hosted on Github trough HubPress. Currently, I'm just trying out.
